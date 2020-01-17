@@ -6,3 +6,4 @@ public class hello {
 		System.out.println("It's a beautiful day outside.");
 	}
 }
+
