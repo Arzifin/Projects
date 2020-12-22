@@ -1,6 +1,7 @@
 # Projects
 
-These are two old projects of mine from object-oriented programming classes. They are here to show the grwoth of my programming skills from the beginning to now. I'm planning on showcasing more of my skills by finishing more projects, shows of my skills.
+Here I have (old) projects of mine from programming classes. They are here to show the growth of my programming skills from the beginning to the present. 
+I'm planning on showcasing more of my skills as more of my projects are finished.
 
 You will find files of my school old(er) Java programming projects:
 
