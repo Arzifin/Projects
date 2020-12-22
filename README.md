@@ -11,6 +11,6 @@ You will find files of my school old(er) Java programming projects:
 Snippets from more recent coding:
 
 - TKO (database programming project, took files solely written by me)
-- PK (project course, I've mainly been implementing the GPS side of group project [to be added after course is over])
+- PK (project course [GPS functionality])
 
 Thank you.
