@@ -8,10 +8,9 @@ You will find files of my school old Java programming projects:
 - OOPE2 (object-oriented programming 2 practice project n:o 1)
 - OOPE2 (object-oriented programming 2 practice project n:o 2)
 
-And some more recent from:
+Snippets from more recent coding:
 
--
--
--
+- TKO (database programming project, took files solely written by me)
+- PK (project course)
 
 Thank you.
